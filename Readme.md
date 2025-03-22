@@ -78,5 +78,5 @@ Each simulator features a consistent user interface making it easy to transition
 - **Frontend**: Next.js, React, TypeScript
 - **State Management**: Redux
 - **Authentication**: Firebase Authentication
-- **Styling**: CSS Modules / Tailwind CSS
+- **Styling**: CSS  / Tailwind CSS
 - **Visualization**: Custom-built graph visualization components
