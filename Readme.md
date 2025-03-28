@@ -2,7 +2,7 @@
 
 AutomataVerse is an interactive educational platform for learning and experimenting with theory of computation concepts. The application provides intuitive visual simulators for various automata models that are fundamental to computer science.
 
-![Automata-Verse Logo](public/logo.png)
+
 
 ## Features
 
